@@ -1,0 +1,24 @@
+{
+  "name": "particles-passport",
+  "description": "Passport support for particles-express",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mario Casciaro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/particles/particles-passport.git"
+  },
+  "dependencies": {
+    "lodash": "~2.3.0"
+  },
+  "peerDependencies": {
+    "particles-express": "~0.1.0",
+    "passport": "~0.1.17",
+    "passport-local": "~0.1.6"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/*.js --reporter spec"
+  },
+  "license": "MIT"
+}
