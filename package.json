@@ -1,7 +1,7 @@
 {
   "name": "particles-passport",
   "description": "Passport support for particles-express",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": {
     "name": "Mario Casciaro"
   },
@@ -13,7 +13,7 @@
     "lodash": "~2.3.0"
   },
   "peerDependencies": {
-    "particles-express": "~0.2.0",
+    "particles-express": "~0.3.0",
     "passport": "~0.1.17",
     "passport-local": "~0.1.6"
   },
